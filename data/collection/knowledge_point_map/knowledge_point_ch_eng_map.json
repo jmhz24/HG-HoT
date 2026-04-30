@@ -1,0 +1,12 @@
+{"圆周角": "Inscribed_Angle", "平行线": "Parallel_Lines", "直角三角形": "Right_Triangle", "圆心角": "Central_Angle",
+  "相似三角形": "Similar_Triangle", "切线": "Tangent", "等腰三角形": "Isosceles_Triangle", "勾股定理": "Pythagorean_Theorem",
+  "平行四边形": "Parallelogram", "垂径定理": "Perpendicular_Diameter", "距离": "Distance", "三角函数": "Trigonometric_Functions",
+  "三角形内角和": "Sum_Interior_Angles_Triangle", "平行线分线段成比例": "Parallel_Lines_Proportion", "角平分线": "Angle_Bisector", "圆内接四边形": "Cyclic_Quadrilateral",
+  "三角形的外角": "Triangle_Exterior_Angle", "三角形中位线": "Triangle_Median", "外接圆": "Circumcircle", "圆锥的计算": "Cone",
+  "等边三角形": "Equilateral_Triangle", "垂直平分线": "Perpendicular_Bisector", "内错角": "Alternate_Interior_Angles", "三角形的外接圆与外心": "Circumcenter",
+  "菱形": "Rhombus", "坡角": "Slope_Angle", "多边形": "Polygon", "正方形": "Square",
+  "同位角": "Corresponding_Angles", "邻补角": "Supplementary_Angles", "矩形": "Rectangle", "对称": "Symmetry",
+  "扇形面积": "Sector", "旋转": "Rotation", "含30度角的直角三角形": "Right_Triangle_30_Angle", "对顶角": "Opposite_Angles",
+  "垂线": "Vertical", "方向角": "Direction_Angles", "平移": "Translation", "仰角": "Elevation_Angles",
+  "俯角": "Depression_Angles", "坐标与图形性质": "Coordinates", "直角三角形斜边上的中线": "Right_Triangle_Hypotenuse_Median", "位似": "Homothety",
+  "立体图形": "Three-Dimensional_Shape", "三视图": "Three-View_Drawing", "黄金分割": "Golden_Ratio", "圆柱的计算": "Cylinder"}
